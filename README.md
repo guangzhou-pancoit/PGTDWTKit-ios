@@ -14,7 +14,7 @@
 ## 手动部署
 下载[PGTDWTKit.framework](https://github.com/guangzhou-pancoit/PGTDWTKit-ios)
 
-## 自动部署
+### 自动部署
 待续。。
 
 ## SDK 介绍
@@ -141,6 +141,7 @@ boxtools.boxMsg.sendGetOfflineMessage( strTiem:  timeStamp)
 
 7、自定义北斗短报文
 自定义短报文要求报文内容长度不能超过78个字节，请按照格式如下。
+
 协议头  | 内容
 ------------- | -------------
 1个字节  | 77个字节
