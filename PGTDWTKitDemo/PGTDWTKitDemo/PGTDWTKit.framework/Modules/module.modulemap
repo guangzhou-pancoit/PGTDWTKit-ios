@@ -1,0 +1,11 @@
+framework module PGTDWTKit {
+  umbrella header "PGTDWTKit.h"
+
+  export *
+  module * { export * }
+}
+
+module PGTDWTKit.Swift {
+    header "PGTDWTKit-Swift.h"
+    requires objc
+}
