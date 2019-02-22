@@ -2,11 +2,11 @@
 天地卫通SDK开发指南
 
 ## 开发者注意事项
-1、天地卫通SDK使用Swift语法开发，如果需要在Objective-C工程中使用，请自行了解Objective-C与Swift混合开发知识。
-2、支持iOS 8.0及以上系统
-3、使用SDK服务中部分功能需要与平台通讯，请先设置平台北斗卡号。
-4、天地卫通SDK主要提供蓝牙操作及相关功能，提交App Store审核需要在工程中Info文件设置Privacy - Bluetooth Peripheral Usage Description 是否许允许使用蓝牙？
-5、意见反馈请联系我们<http://www.pancoit.com>
+1、天地卫通SDK使用Swift语法开发，如果需要在Objective-C工程中使用，请自行了解Objective-C与Swift混合开发知识。  
+2、支持iOS 8.0及以上系统  
+3、使用SDK服务中部分功能需要与平台通讯，请先设置平台北斗卡号。  
+4、天地卫通SDK主要提供蓝牙操作及相关功能，提交App Store审核需要在工程中Info文件设置Privacy - Bluetooth Peripheral Usage Description 是否许允许使用蓝牙？  
+5、意见反馈请联系我们<http://www.pancoit.com>  
 
 ## 获取平台北斗卡号
 天地卫通开发工具包含部分与平台通讯接口，需先获取RD通道或指挥机或其他北斗数传设备接收卡号，才能正常使用者部分功能。如没有接收通讯数据的北斗卡号，[请点击联系我们](www.pancoit.com) 
