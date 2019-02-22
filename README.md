@@ -154,7 +154,7 @@ boxtools.boxMsg.sendGetOfflineMessage( strTiem:  timeStamp)
 boxtools.boxMsg.sendMessage(boxId: "北斗卡号", hexString: "十六进制字符串")
 ~~~
 
-八、发送消息结果监听
+## 发送消息结果监听
 ~~~
 /// 发送消息结果
 /// message 是发送成功或者失败的消息提示。如:"报文已发出"
